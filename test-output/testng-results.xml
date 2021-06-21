@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-21T11:44:13 BST" name="Default suite" finished-at="2021-06-21T11:46:10 BST" duration-ms="116754">
+    <groups>
+    </groups>
+    <test started-at="2021-06-21T11:44:13 BST" name="Default test" finished-at="2021-06-21T11:46:10 BST" duration-ms="116754">
+      <class name="Tests.BasicTests">
+        <test-method signature="Seleniumfirst()[pri:0, instance:Tests.BasicTests@76adb233]" started-at="2021-06-21T11:44:14 BST" name="Seleniumfirst" finished-at="2021-06-21T11:46:10 BST" duration-ms="116592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumfirst -->
+      </class> <!-- Tests.BasicTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

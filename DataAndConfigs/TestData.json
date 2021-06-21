@@ -1,0 +1,5 @@
+{
+"URL":"http://yahoo.com",
+"WebDriverProperty":"webdriver.gecko.driver",
+"WebDriverLocation":"/Drivers/Geckodriver/geckodriver.exe"
+}
